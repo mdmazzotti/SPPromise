@@ -1,6 +1,6 @@
 # SPPromise
 
-SPPromise is a wrapper library over the SharePoint 2010 JSOM APIs, packaged as a jQuery plugin.
+SPPromise is a wrapper library over the [SharePoint 2010 JSOM APIs](http://msdn.microsoft.com/fr-fr/library/hh372944(v=office.14).aspx), packaged as a jQuery plugin.
 The name comes from the jQuery Deferred and Promise objects, which it makes extensive use of to streamline the usage of the underlying aynchronous APIs.
 
 
