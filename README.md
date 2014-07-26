@@ -62,7 +62,7 @@ function writeToConsole(announcements){
 ### Some key features:
 * Nice and clean syntax, thanks to jQuery Deferred/Promise api
 * Returned objects are simple javascript objects and arrays
-* Access item properties with the standard dot notation and loop through collections with simple for loops  (no need to call get_item() and getEnumerator all around)
+* Access item properties with the standard dot notation and loop through collections with simple for loops  (no need to call get_item() and getEnumerator() all around)
 * Lists are retrieved by internal name by default (configurable. See the [API documentation](#api-documentation)).
 
 ### Get started
