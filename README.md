@@ -100,6 +100,6 @@ The unminified version of the library comes with full XML comments documentation
 Here is a list of all currently available functions and usage examples.
 
 ### Supported SharePoint versions
-The library was written and tested on SharePoint 2010.
+The library was written and tested on SharePoint 2010, but it should work also on SharePoint 2013.
 
 Extending it to fully support the 2013 version shouldn't be a hard task and I'm considering doing it in a near future (code contributions are welcome!).
