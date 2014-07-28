@@ -88,7 +88,8 @@ Code that depends on SPPromise must therefore wait for it to be ready. You can d
 ```javascript
 ExecuteOrDelayUntilScriptLoaded(sppReady, 'SPPromise');
 function sppReady() { 
-  // you can now use SPPromise
+  // SPPromise is now ready to be used
+  console.log($().SPPromise.version);
 }
 ```
 
