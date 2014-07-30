@@ -67,7 +67,7 @@ function writeToConsole(announcements){
 
 ### Get started
 #### Installation
-**Requirements:** SPService requires the [jQuery library](jquery.com).
+**Requirements:** SPPromise requires the [jQuery library](jquery.com).
 
 In order to use the library, you must add a reference to it into a single page, a page layout or a master page, as you see fit.
 
@@ -77,7 +77,7 @@ The recommened way to include jQuery or other libraries used throughout a ShareP
 
 ```xml
 <SharePoint:ScriptLink id="jquery" runat="server" Name="~sitecollection/SiteAssets/js/jquery.min.js" Language="javascript"/>
-<SharePoint:ScriptLink id="sppromise" runat="server" Name="~sitecollection/SiteAssets/js/jquery.SPpromise.js" Language="javascript"/>
+<SharePoint:ScriptLink id="sppromise" runat="server" Name="~sitecollection/SiteAssets/js/jquery.SPPromise.js" Language="javascript"/>
 ```
 
 #### Using SPPromise
