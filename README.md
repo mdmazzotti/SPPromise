@@ -97,7 +97,7 @@ function sppReady() {
 ### API documentation
 The unminified version of the library comes with full XML comments documentation, to support Visual Studio intellisense.
 
-Here is a list of all currently available functions and usage examples.
+[Here](https://github.com/mdmazzotti/SPPromise/wiki/API-Documentation) is a list of all currently available functions and usage examples.
 
 ### Supported SharePoint versions
 The library was written and tested on SharePoint 2010, but it should work also on SharePoint 2013.
